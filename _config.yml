@@ -1,8 +1,11 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+title: andika dwi ary candra
+description: '<p> mahasiswa sistem informasi
+              <p> fakultas sains dan teknologi 
+              <p> UIN SUSKA RIAU</p>'
+            
+url: 'https://andikadac.github.io'
+baseurl: '/andikadac.github.io/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 

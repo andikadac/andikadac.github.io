@@ -5,9 +5,10 @@ categories: [Bio]
 tags: [Bio]
 ---
 Selamat datang di blog saya,saya hanyalah seorang mahasiswa jurusan Sistem Informas yang berkuliah di Universitas Islam Negeri Sultan Syarif Kasim Riau,
+
+
 Be like a miracle
 Although it rarely comes,but when comes it would be awesome
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
 Jekyll also offers powerful support for code snippets:
 
